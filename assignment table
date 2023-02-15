@@ -1,0 +1,194 @@
+Web & Mobile Batch 9
+TTS - 9 PM - 11 PM
+HTML Assignment 5
+HTML Assignment 5
+Raza Ali
+•
+Dec 16, 2022
+100 points
+Due Dec 17, 2022, 7:59 AM
+Create a html page by referring to Auditorium_Classes.jpg file using table tag.
+
+Host it on netlify and share link.
+
+Auditorium_Classes.jpg
+Image
+16 class comments
+
+Umar AqeelDec 16, 2022
+Done
+https://saylanitimtable.netlify.app/
+
+aliyan ahmedDec 16, 2022
+don
+
+aliyan ahmedDec 16, 2022
+DONE
+
+Zeeshan AfridiDec 16, 2022
+Don
+
+Hammad AhmedDec 16, 2022
+done
+
+Muhammad OwaisDec 16, 2022
+done
+
+Usama JawaidDec 16, 2022
+done
+
+Danial ChippaDec 16, 2022
+done
+
+Muhammad MuizDec 17, 2022
+https://moizsiddiqui.netlify.app/
+
+Gohar AbbasDec 17, 2022
+https://goharabbascv.netlify.app/
+
+
+gohar abbas
+
+Gohar AbbasDec 17, 2022
+Gohar Abbas https://pagelinkassgiment.netlify.app/
+
+Gohar AbbasDec 17, 2022
+GoharAbbas First assignment https://firstassgiment.netlify.app/
+
+Gohar AbbasDec 17, 2022
+Gohar Abbas Third assgiment https://marksheetassgiment.netlify.app/
+
+Muhammad SubhanDec 17, 2022
+https://amazing-praline-01b59d.netlify.app
+
+Yummy BoiiDec 18, 2022
+DONE, sorry for late.
+
+ShahryarDec 18, 2022
+https://assigment05smit.netlify.app/
+
+Your work
+Turned in late
+
+five.html
+HTML
+Private comments
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classes Schedule
+    </title>
+    <style>
+        body{
+            font-family: 'Times New Roman', Times, serif;
+            background-color: darkgrey;
+        }
+    </style>
+</head>
+<body>
+            <h1> Saylani Mass IT Training Classes Schedule (Audi)</h1>
+        
+        <table border="1" cellspacing="0">
+        <tr>
+<th colspan="12">classes Time & Days</th>
+        </tr>
+
+        <tr>
+            <th rowspan="8"></th>
+            <th>Days/Time</th>
+            <th>8am/9am</th>
+            <th>9am/11am</th>
+            <th>11am/12am</th>
+            <th>12am/1am</th>
+            <th>1am/2am</th>
+            <th>2am/4am</th>
+            <th>4am/6am</th>
+            <th>6am/9am</th>
+        </tr>
+        <tr>
+            <th>Monday</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>4am to 6am <br> Web and App <br> Sir Ghous</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Tuesday</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>4am to 6am <br> Web and App <br> Sir Ghous</th>
+            <th>6am to 8am <br> Web and App <br> Sir inzimam</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+        </tr>
+        <tr>
+            <th>wednesday</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>4am to 6am <br> Web and App <br> Sir Ghous</th>
+            <th>6am to 8am <br> Web and App <br> Sir inzimam</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+        </tr>
+        <tr>
+            <th>Thursday</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>4am to 6am <br> Web and App <br> Sir Ghous</th>
+            <th>6am to 8am <br> Web and App <br> Sir inzimam</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+            
+        </tr>
+        <tr>
+            <th>Firday</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>4am to 6am <br> Web and App <br> Sir Ghous</th>
+            <th>6am to 8am <br> Web and App <br> Sir inzimam</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+        </tr>
+        <tr>
+            <th>Saturday</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th> Web and App <br> Sir Ghous</th>
+            <th>4am to 6am <br> Web and App <br> Sir Ghous</th>
+            <th>6am to 8am <br> Web and App <br> Sir inzimam</th>
+            <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+            <tr>
+                <th>Sunday</th>
+                <th> Web and App <br> Sir Ghous</th>
+                <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+                <th> Web and App <br> Sir Ghous</th>
+                <th> Web and App <br> Sir Ghous</th>
+                <th> Web and App <br> Sir Ghous</th>
+                <th>4am to 6am <br> Web and App <br> Sir Ghous</th>
+                <th>6am to 8am <br> Web and App <br> Sir inzimam</th>
+                <th>9am to 11am <br> Web and App <br> Sir Ghous</th>
+
+            </tr>
+        </tr>
+    </table>
+</body>
+</html>
+five.html
+Displaying five.html.
